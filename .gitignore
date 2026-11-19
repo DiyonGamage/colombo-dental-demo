@@ -1,0 +1,13 @@
+# QA screenshots and tooling (not part of the site)
+.qa/
+.ref/
+.sourcing/
+
+# Internal notes — not for publication
+research.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
